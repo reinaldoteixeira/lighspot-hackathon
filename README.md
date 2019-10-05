@@ -84,7 +84,7 @@ $ react-native log-android
 Para corrigir o erro "INSTALL_FAILED_UPDATE_INCOMPATIBLE" execute:
 
 ```console
-$ adb uninstall com.looktolearn
+$ adb uninstall com.lighspot
 ```
 
 Iniciar servidor adb
