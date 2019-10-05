@@ -1,7 +1,10 @@
-# LIGHSPOT
+# LIGHTSPOT
 
-## Dependencias
+## Dependências
 
+- Node.js
+- NPM
+- Yarn
 - JDK
 - SDK Android
 
@@ -106,18 +109,6 @@ Se houver erro para connectar o projeto no emulador do Gennymotion, abra o Genny
 Nesse projeto utilizamos o Emulador Gennymotion como padrão.
 Acesse o link para configurar o Emulador. <a>https://docs.rocketseat.dev/ambiente-react-native/android/emulador</a>
 
-Para conectar o emulador execute o comando
-
-```console
-$ adb connect IP_DO_SEU_EMULADOR:5555
-```
-
-Para ver os Emuladores execute o comando
-
-```console
-$ adb devices
-```
-
 ## Funcionalidade
 
 - Feed de informações
@@ -134,4 +125,4 @@ $ adb devices
 
 ## Apresentação do projeto
 
-- https://docs.google.com/presentation/d/1uAqv2S5-wCqnVK7v0BW0lTqf43fiQBlMcTKkywEHidQ/edit?usp=sharing
+- https://docs.google.com/presentation/d/1uAqv2S5-wCqnVK7v0BW0lTqf43fiQBlMcTKkywEHidQ/edit#slide=id.p
